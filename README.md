@@ -1,22 +1,25 @@
-Carrie Schmid Resume
-Webpage using Gastby deployed by Netlify as the landing page for your web programming portfolio, 8.1.20
-By Carrie Schmid
-Description
-Examples of using HTML tags, Bootstrap classes,custom-made stylesheet, indentation and spacing, commits, a README and GitHub pages.
+# _Carrie Schmid Resume_
+#### _Webpage using Gastby deployed by Netlify as the landing page for your web programming portfolio_
 
-Setup/Installation Requirements
+#### 8.1.20
+#### By _**Carrie Schmid**_
 
-Known Bugs
+## Description
+#### _Examples of using HTML tags, Bootstrap classes,custom-made stylesheet, indentation and spacing, commits, a README and GitHub pages._
+
+## Setup/Installation Requirements
+
+## Known Bugs
 There are no known bugs.
 
-Support and contact details
+## Support and contact details
 Carrie Schmid, carriepedersonschmid@gmail.com
 
 Technologies Used
 HTML, CSS, JavaScript
 
-License
-Copyright (c) 2019 Carrie Schmid
+### License
+Copyright (c) 2020 Carrie Schmid
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
