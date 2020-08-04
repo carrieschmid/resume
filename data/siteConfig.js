@@ -70,7 +70,7 @@ module.exports = {
       duration: '9 mos',
       occupation: 'Student',
       description:
-        'In this six-month at Epicodus,  I studied JavaScript, C# and React. Each day we complete a project using these language, integrating HTML and CSS. Weekly, we complete an independent project.  I passed 20 code reviews, and about six job prep reviews to finish the course. On average, I spent about 8 hours a day working on code.  ',
+        'In this six-month at Epicodus,  I studied JavaScript, C# and React. Each day we complete a project using these languages, integrating HTML and CSS. Weekly, we complete an independent project.  I passed 20 code reviews, and about six job prep reviews to finish the course. On average, I spent about 8 hours a day working on code.  ',
     },
   
 
@@ -81,10 +81,11 @@ module.exports = {
     // twitter: 'https://twitter.com/_franciscodf',
     linkedin: 'https://www.linkedin.com/in/carrie-schmid/',
     github: 'https://github.com/carrieschmid',
-    email: 'carriepederson7@gmail.com',
+    email: 'carriepedersonschmid@gmail.com',
   },
-  siteUrl: 'https://carrieschmid.github.io/resume',
-  pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
+  siteUrl: 'https://https://www.carriepedersonschmid.com/',
+  // pathPrefix: '/gatsby-starter-cv', 
+  // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
   // googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
